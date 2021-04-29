@@ -15,7 +15,7 @@ In the tab "`SET Distribution`", users can specify set sizes, population size, a
 
 `SuperExactTest shiny app` and R package `SuperExactTest` are made available in the hope that they will be useful, but without any warranty to the extent permitted by applicable law.
 
-Please report any bug at [github](https://github.com/mw201608/SuperExactTest.shiny/).
+Please report any issues at [github](https://github.com/mw201608/SuperExactTest.shiny/).
 
 #### Sponsor
 
