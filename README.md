@@ -17,4 +17,4 @@ In the tab "`SET Distribution`", users can specify set sizes, population size, a
 
 #### Donate
 
-If you find the `SuperExactTest` package and this shiny app to be userful, please donate at my github page https://github.com/mw201608/SuperExactTest/ to support further development. Thanks!
+If you find the `SuperExactTest` package and this shiny app to be userful, please `Sponsor` at my github page https://github.com/mw201608/SuperExactTest/ to support further development. Thanks!
